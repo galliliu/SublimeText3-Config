@@ -1,0 +1,32 @@
+{
+	"always_show_minimap_viewport": true,
+	"bold_folder_labels": true,
+	"caret_extra_bottom": 1,
+	"caret_extra_top": 1,
+	"caret_extra_width": 2,
+	"caret_style": "blink",
+	"color_scheme": "Packages/Material Theme/schemes/Material-Theme.tmTheme",
+	"font_face": "Comic Sans MS",
+	"font_options":
+	[
+		"gray_antialias"
+	],
+	"font_size": 22,
+	"highlight_line": true,
+	"ignored_packages":
+	[
+		"JavaScript",
+		"Vintage"
+	],
+	"indent_guide_options":
+	[
+		"draw_normal",
+		"draw_active"
+	],
+	"line_padding_bottom": 3,
+	"line_padding_top": 3,
+	"material_theme_accent_brba": true,
+	"material_theme_big_fileicons": true,
+	"overlay_scroll_bars": "enabled",
+	"theme": "Material-Theme.sublime-theme"
+}
